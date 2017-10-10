@@ -5,7 +5,7 @@
 月份
 =====
 
-.. code-block::
+.. code::
 
     January Jan.
     February Feb.
@@ -24,7 +24,7 @@
 四季
 =====
 
-.. code-block::
+.. code::
 
     spring
     summer
