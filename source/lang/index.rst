@@ -9,3 +9,4 @@
    nce/index
    training/index
    english-phonetic
+   english-aphorism
