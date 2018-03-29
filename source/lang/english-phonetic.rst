@@ -4,7 +4,7 @@
 
 英语音标输入
 
-以下内容来自这个页面：[[http://www.fmddlmyy.cn/yinbiao/]]
+以下内容来自这个页面：http://www.fmddlmyy.cn/yinbiao/
 
 .. raw:: html
     <style>
@@ -85,6 +85,9 @@
     }
     DIV#adsense {
         CLEAR: both; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 5px 0px; COLOR: black; PADDING-TOP: 5px; TEXT-ALIGN: center
+    }
+    td {
+       BORDER: #777 1px solid; 
     }
     </style>
 
@@ -249,27 +252,10 @@
 
     <DIV id=footer>
     <UL>
-    <LI>这个网页上提供了44个常见音标的IPA63、IPA88和KK音标的符号。IPA63指采用IPA字符前的标准音标。IPA88是指采用IPA字符后的标准音标。关于IPA、英语音标和Unicode的更多信息可以参见
-    <a href="http://blog.csdn.net/fmddlmyy/archive/2010/06/06/5651508.aspx" target="_top">英语音标和Unicode</a>。</LI>
+    <LI>这个网页上提供了44个常见音标的IPA63、IPA88和KK音标的符号。IPA63指采用IPA字符前的标准音标。IPA88是指采用IPA字符后的标准音标。关于IPA、英语音标和Unicode的更多信息可以参见 <a href="http://blog.csdn.net/fmddlmyy/archive/2010/06/06/5651508.aspx" target="_top">英语音标和Unicode</a>。</LI>
     <LI>Collins词典把 <span style="font-family: Lucida Sans Unicode;" lang="EN-US">əʊ</span> 写成 <span style="font-family: Lucida Sans Unicode;" lang="EN-US">oʊ</span>。
     <span style="font-family: Lucida Sans Unicode;" lang="EN-US">oʊ</span>可以更精确地表达美式发音，但更多的英国词典使用<span style="font-family: Lucida Sans Unicode;" lang="EN-US">əʊ</span>。 </P>
     </LI>
-    <LI>改进建议可以在<a href="http://tieba.baidu.com/f?kw=fmddlmyy" target="_top">我的贴吧</a></LI>留言或者发至<a href="mailto:fmdd@263.net">我的邮箱</a>。</LI>
-    <DIV id=adsense>
-        <center>
-        <script type="text/javascript"><!--
-        google_ad_client = "pub-5058590656439096";
-        google_ad_width = 728;
-        google_ad_height = 90;
-        google_ad_format = "728x90_as";
-        google_ad_type = "text_image";
-        google_ad_channel = "";
-        //-->
-        </script>
-        <script type="text/javascript"
-        src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-        </script>
-        </center>
-    </DIV>
+    <LI>改进建议可以在<a href="http://tieba.baidu.com/f?kw=fmddlmyy" target="_top">我的贴吧</a>留言或者发至<a href="mailto:fmdd@263.net">我的邮箱</a>。</LI>
     </DIV>
 
