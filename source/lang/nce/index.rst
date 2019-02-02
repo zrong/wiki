@@ -3,12 +3,14 @@
 ==================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 课程索引
 
    1vocabulary
    1grammar
    1sentence
+
+----
 
 .. toctree::
    :maxdepth: 1

@@ -3,10 +3,9 @@
 =========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 目录:
 
    nce/index
    training/index
    english-phonetic
-   english-aphorism

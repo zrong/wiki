@@ -4,7 +4,7 @@
 
 英语音标输入
 
-以下内容来自这个页面：http://www.fmddlmyy.cn/yinbiao/
+以下内容来自这个页面： http://www.fmddlmyy.cn/yinbiao/
 
 .. raw:: html
     <style>

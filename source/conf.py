@@ -21,7 +21,8 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import sphinx_rtd_theme
+# import sphinx_rtd_theme
+import sphinx_bulma_theme
 
 # -- General configuration ------------------------------------------------
 
@@ -87,8 +88,29 @@ todo_include_todos = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_rtd_theme'
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+# html_theme = 'sphinx_rtd_theme'
+# html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+html_theme = "bulma"
+html_theme_path = [sphinx_bulma_theme.get_html_theme_path()]
+html_theme_options = {
+    'logo_path': 'logo.png',  # within _static/
+    'analytics_id': None,
+    'breadcrumbs_at_top': False,
+    'canonical_url': None,
+    'collapse_navigation': False,
+    'content_margin_left': None,
+    'content_padding_left': None,
+    'content_padding_top': None,
+    'display_version': True,
+    'logo_only': False,
+    'navigation_depth': 4,
+    'show_topbar': True,
+    'sidebar_class': 'has-text-dark',
+    'sidebar_container_class': 'is-one-quarter',
+    'sidebar_right': None,
+    'topbar_class': 'is-light',
+    'topbar_logo_class': 'image is-32x32',
+}
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the

@@ -3,8 +3,9 @@
 =====
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 目录:
 
    a-method-about-speed-up
    pronunctation-of-digit
+   english-address
