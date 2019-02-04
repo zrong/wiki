@@ -2,6 +2,13 @@
 时间和日期
 ==================
 
+
+.. contents::
+    :depth: 2
+
+----
+
+
 钟点表示法
 ============
 
@@ -21,6 +28,8 @@
 表示在什么时间使用介词 at::
 
     He goes to school at 7.30
+
+.. _on-time:
 
 日期表示法
 =================
@@ -51,7 +60,9 @@
     When's your birthday?
     My birthday is on July the eighteenth.
 
-介词 at on 的时间短语
+.. _at-time:
+
+介词 at 的时间短语
 ==========================
 
 at 时间短语通常可以表示
@@ -61,6 +72,11 @@ at 时间短语通常可以表示
 * 其他时刻 at noon
 * 节日 at Christmas
 * 年龄 at the age of 27
+
+.. _in-time:
+
+介词 in 的时间短语
+==========================
 
 in 时间短语通常表示
 

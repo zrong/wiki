@@ -19,6 +19,7 @@
    nominative-objective-case-genitive
    month-and-season
    country-and-nationality
+   be
    food
    time-and-date
    number-and-ordinal
