@@ -243,3 +243,14 @@ Lesson 71~72
 与某人说话 ::
 
     speak to sb.
+
+Lesson 73~74
+==================
+
+and 当所以讲： ::
+
+    ... and she lost her way. ...
+
+她心中暗想： ::
+
+    she said to herself.

@@ -487,3 +487,30 @@ be动词之外的动词在一般过去时中有两种形式。
     yesterday
     the day before yesterday
     yesterday morning
+
+Lesson 73~74
+================
+
+副词(adverb)
+
+副词的本意是补充动词的意义。通过修饰动词告诉我们某事是何时、何地、如何发生或者进行的。
+
+副词可以是单个的词（slowly）或者词组（very well）。
+
+形容词向副词转换的三个原则：
+
+1. 在形容词后面直接加 ``-ly`` ： ::
+
+    quick -- qucikly
+    hurried -- hurriedly
+    plesant -- pleasantly
+    warm -- warmly
+
+2. 以 ``-y`` 结尾的形容词，把 ``-y`` 改成 ``-i``，再加 ``-ly`` ： ::
+
+    thirsty -- thirstily
+    happy -- happily
+
+3. 形容词与副词的形式相同： ::
+
+    late, fast, hard, well

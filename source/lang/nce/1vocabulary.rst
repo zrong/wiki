@@ -505,3 +505,31 @@ at 介词表示地点 ::
 - on 介词用于周和月份中的任何一天，见 :ref:`on-time`
 
 - in 时间短语，见 :ref:`in-time`
+
+Lesson 73~74
+====================
+
+不规则动词的过去式
+
+- go -- went
+- see -- saw
+- understand -- understood
+- take -- took
+- read -- read/red
+- drink -- drank
+- run -- ran
+- know -- knew
+- say -- said
+- put -- put
+- cut -- cut
+- eat -- eat
+- meet -- met
+- come -- came
+- lose -- lost
+- tell -- told
+- speak -- spoke
+- find -- found
+- give -- gave
+- swin -- swam
+- have -- had
+
