@@ -533,3 +533,31 @@ Lesson 73~74
 - swin -- swam
 - have -- had
 
+Lesson 75~76
+====================
+
+一般过去式的时间短语
+
+last + 过去时间
+
+    last week/month/year/nignt
+
+一段时间 + ago
+
+    two minutes/hours/days/weeks/monthes/years ago
+
+in + 过去某年
+
+过去时间 + 限定词
+
+    yeasterday, yeasterday morning, yesterday evening
+
+before + last
+
+    the week before last, the day before yesterday, the night before last
+
+
+Lesson 77~78
+====================
+
+:ref:`ampm`

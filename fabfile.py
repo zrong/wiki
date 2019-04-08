@@ -74,7 +74,7 @@ def build(c):
     """ 构建 html 静态文件
     """
     from sphinx.cmd.build import build_main
-    build_main(['source', 'build'])
+    build_main(['source', 'build', '-b', 'html'])
 
 
 @task

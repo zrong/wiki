@@ -254,3 +254,23 @@ and 当所以讲： ::
 她心中暗想： ::
 
     she said to herself.
+
+Lesson 77~78
+==================
+
+相见某人的常见句式：
+
+    I want to see sb., please
+
+与某人有约会：
+
+    have an appointment (with sb.)
+
+约定见面时间：
+
+    Can you come at ...?
+
+
+更强烈的预期：
+
+    I must see ...

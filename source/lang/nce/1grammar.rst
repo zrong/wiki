@@ -514,3 +514,45 @@ Lesson 73~74
 3. 形容词与副词的形式相同： ::
 
     late, fast, hard, well
+
+Lesson 75~76
+================
+
+一般过去时与时间短语
+
+- last + 表示时间的名词
+
+- 一段时间 + ago
+
+Lesson 77~78
+================
+
+否定疑问句
+
+表示说话者惊异的情绪，责难的口吻，赞叹的语气。也可以表示说话者的某种建议、邀请、请求或者看法。
+
+简略否定式：
+
+    Aren't you a student?
+    Isn't it hot here?
+    Can't you wait a moment?
+    Haven't I asked you?
+    Don't you want to stay with us?
+    Didn't you see him yesterday?
+
+完全否定式：
+
+    Are you not a student?
+    Is it not hot here?
+    Can you not wait a moment?
+    Have I not asked you?
+    Do you not want to stay with us?
+    Didi you not see him yesterday?
+
+如果回答是肯定的，就用 yes，如果回答是否定的，就用 no。这类回答在翻译成汉语的时候译法有独特之处。
+
+    Don't you know English?
+    你不懂英语把？
+    Yes, I do.
+    不，我懂。
+

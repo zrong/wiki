@@ -12,8 +12,8 @@
 钟点表示法
 ============
 
-* 在某个钟点的1~30分钟，常用past
-* 在某个重点31分钟到下一个正点，常用to
+* 在某个钟点的1~30分钟，常用 ``past``
+* 在某个重点31分钟到下一个正点，常用 ``to``
 
 8点20分::
 
@@ -34,7 +34,7 @@
 日期表示法
 =================
 
-通常使用介词 on 表示星期几::
+通常使用介词 on 表示星期几 ::
 
     on Monday
     on Monday morning
@@ -87,6 +87,15 @@ in 时间短语通常表示
 * 世纪 in the 20th century
 * 节日 in Easter week
 * 时期 in the holidays
+
+.. _ampm:
+
+AM/PM
+==========
+
+AM = a.m. = ante meridiem
+
+PM = p.m. = post meridiem
 
 .. _time-representation:
 
