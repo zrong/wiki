@@ -116,7 +116,11 @@ Lesson 27~28
 
 数字 9999, 10001的写法  :doc:`number-and-ordinal`
 
-some 和 any 的用法
+.. glossary::
+
+    some 和 any
+
+参见： :term:`many 和 much`
 
 some 表示确定的数量，通常用于肯定句。可修饰可数和不可数名词。某些疑问句中，若希望回答是yes的时候也可以使用some。 ::
 
@@ -561,3 +565,42 @@ Lesson 77~78
 ====================
 
 :ref:`ampm`
+
+Lesson 79~80
+====================
+
+.. glossary::
+
+    many 和 much
+
+many 主要用于疑问句和否定句中，放在可数名词之前；
+
+much 主要用于疑问句和否定句中，放在不可数名词之前。
+
+参见： :term:`some 和 any`
+
+.. glossary::
+
+    need
+
+need 表示“需要，必须”。佐助动词多用于疑问句和否定句：
+
+    Need I make an appointment?
+    You need not hurry.
+
+need 也可以作为实意动词使用，需要人称，数和石台上的变化。疑问句中也需要用助动词 do。例如：
+
+    We need a lot of things this week.
+    He needs some money.
+    Do you need andy sugar?
+    What do they need this week?
+
+.. glossary::
+
+    完全动词 have
+
+dont's have = haven't got
+
+    We haven't got much tea or coffee.
+    We don't have got much tea or coffee.
+
