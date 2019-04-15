@@ -548,29 +548,38 @@ Lesson 77~78
 
 简略否定式：
 
-    Aren't you a student?
-    Isn't it hot here?
-    Can't you wait a moment?
-    Haven't I asked you?
-    Don't you want to stay with us?
-    Didn't you see him yesterday?
+    - Aren't you a student?
+    - Isn't it hot here?
+    - Can't you wait a moment?
+    - Haven't I asked you?
+    - Don't you want to stay with us?
+    - Didn't you see him yesterday?
 
 完全否定式：
 
-    Are you not a student?
-    Is it not hot here?
-    Can you not wait a moment?
-    Have I not asked you?
-    Do you not want to stay with us?
-    Didi you not see him yesterday?
+    - Are you not a student?
+    - Is it not hot here?
+    - Can you not wait a moment?
+    - Have I not asked you?
+    - Do you not want to stay with us?
+    - Didi you not see him yesterday?
 
 如果回答是肯定的，就用 yes，如果回答是否定的，就用 no。这类回答在翻译成汉语的时候译法有独特之处。
 
-    Don't you know English?
-    你不懂英语把？
-    Yes, I do.
-    不，我懂。
+    - Don't you know English?
+    - 你不懂英语把？
+    - Yes, I do.
+    - 不，我懂。
 
-Lesson 79~80
+Lesson 83~84
 ================
 
+.. glossary::
+
+    现在完成时
+
+        have + 过去分词
+
+1. 表示过去不确定的时间里发生的并与现在有着某种联系的动作。
+
+2. 表示开始于过去并持续到现在的动作。

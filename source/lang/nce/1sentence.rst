@@ -274,3 +274,25 @@ Lesson 77~78
 更强烈的预期：
 
     I must see ...
+
+Lesson 81~82
+====================
+
+``Come upstairs`` 中的 upstairs 表示动作的方向。
+
+``He's upstairs`` 中的 upstairs 表示他的方位。
+
+Lesson 83~84
+====================
+
+乱七八糟，请原谅 ::
+
+    Excuse the mess.
+
+home 前面不加定冠词
+
+    stay at home
+
+    go home (home 是副词)
+
+    arrive home (home 是副词)

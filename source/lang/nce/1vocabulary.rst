@@ -586,13 +586,17 @@ much 主要用于疑问句和否定句中，放在不可数名词之前。
 need 表示“需要，必须”。佐助动词多用于疑问句和否定句：
 
     Need I make an appointment?
+
     You need not hurry.
 
 need 也可以作为实意动词使用，需要人称，数和石台上的变化。疑问句中也需要用助动词 do。例如：
 
     We need a lot of things this week.
+
     He needs some money.
+
     Do you need andy sugar?
+
     What do they need this week?
 
 .. glossary::
@@ -602,5 +606,22 @@ need 也可以作为实意动词使用，需要人称，数和石台上的变化
 dont's have = haven't got
 
     We haven't got much tea or coffee.
+
     We don't have got much tea or coffee.
 
+Lesson 81~82
+====================
+
+.. glossary::
+
+    完全动词 have
+
+have 可以替代常用动词，表示 ``eat/enjoy/experience/drink/take`` 等含义。
+
+此时的 have 是行为动词，所以和动作有关，而不表示“具有”状态，因此，此时它可以用于各种时态。
+
+    Do you have milk in your tea?
+
+    He's having a bath.
+
+    We had lunch together today.
