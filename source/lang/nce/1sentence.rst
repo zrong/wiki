@@ -296,3 +296,42 @@ home 前面不加定冠词
     go home (home 是副词)
 
     arrive home (home 是副词)
+
+Lesson 85~86
+================
+
+have been 与 have gone
+
+- have been to a place 表示过去曾经去过某地，但已经不在那里。
+
+- have gone to a place 表示过去已经去过某地，现在在那里，或者在去那里的路上。
+
+::
+    George has been to Paris. （现在不在巴黎）
+
+    George has gone to Paris. （在巴黎或者在去巴黎的路上）
+
+    Have you ever been to America? （对方不在美国境内）
+
+    Has he gone to Washington D.C.? （被提到的人可能在美国境内或赴美途中）
+
+
+What's on? 询问正在上映什么电影的简单问句。
+
+
+Lesson 87~88
+================
+
+撞倒 ::
+
+    drive into
+
+设法做某事 ::
+
+    try to + 动词不定式
+
+看一下 ::
+
+    have a look at = look at
+
+
