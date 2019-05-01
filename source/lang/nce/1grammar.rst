@@ -595,3 +595,28 @@ Lesson 87~88
 
         否定式：has/have + not
 
+
+
+.. _forsince:
+
+Lesson 89~90
+================
+
+
+.. glossary::
+
+    现在完成时
+
+        现在完成时可以描述发生在过去一直延续到现在的动作，这种动作可能继续延续下去。这种情况下，它一般与 for + 一段时间、since + 某个时间点连用。
+
+for + 一段时间 ::
+
+    表示某个动作持续多长时间
+    How lone has lan Ian lived in the house?
+    He 's lived here for twenty years.
+
+since + 一段时间 ::
+
+    表示某个动作是何时开始的
+    Since when has been there?
+    Since 1976
