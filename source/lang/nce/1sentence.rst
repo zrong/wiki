@@ -334,3 +334,9 @@ Lesson 87~88
     have a look at = look at
 
 
+Lesson 93~94
+==================
+
+and 当 but(而...)，起到转折作用 ::
+
+    He is only forty-one years old, and he has ...

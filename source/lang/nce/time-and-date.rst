@@ -108,3 +108,18 @@ time做不可数名词的时候，代表时间；做可数名词的时候，代�
 - 二次 twice
 - 三次 three times
 - 三次以上 基数词+times
+
+
+.. _time-future:
+
+表将来的时间短语
+=======================
+
+- this week/month/year
+- next week/month/year
+- the week/month/year after next
+- in a day's time 一天以后
+- in a year's time 一年以后
+- in two weeks' time 
+- in three months' time 
+

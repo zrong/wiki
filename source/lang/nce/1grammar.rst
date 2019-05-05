@@ -596,7 +596,6 @@ Lesson 87~88
         否定式：has/have + not
 
 
-
 .. _forsince:
 
 Lesson 89~90
@@ -620,3 +619,22 @@ since + 一段时间 ::
     表示某个动作是何时开始的
     Since when has been there?
     Since 1976
+
+
+Lesson 91~92
+================
+
+.. glossary::
+
+    一般将来时
+
+        will/shall + 动词原形
+
+will 可以用于所有人称，shall 仅表示纯粹将来时用于第一人称 we 和 I，作为 will 的一种替代形式。
+
+缩写形式： ``will not = won't`` ， ``shall not = shan't``
+
+will 除了表示纯粹的将来时，还表示说话人的意图和意愿。而 shall 除了表示将来时外，还表示说话人的责任或决心
+
+在口语中 ``be going to`` 比 ``will/shall`` 在使用上更加普遍，表示说话人的意图或者打算。
+
