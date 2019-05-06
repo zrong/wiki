@@ -638,3 +638,15 @@ will 除了表示纯粹的将来时，还表示说话人的意图和意愿。而
 
 在口语中 ``be going to`` 比 ``will/shall`` 在使用上更加普遍，表示说话人的意图或者打算。
 
+
+Lesson 95~96
+================
+
+had better 与 must
+
+
+had better 表示“最好还是”，“最好”，表达某种程度的忠告或者建议。
+
+must 表示“必须”，“一定”，语气比 had better 强烈。
+
+had better 表示现在进行时或者将来时，而不是过去式。否定形式为 had better not。
