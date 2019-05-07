@@ -123,3 +123,13 @@ time做不可数名词的时候，代表时间；做可数名词的时候，代�
 - in two weeks' time 
 - in three months' time 
 
+
+.. _time-past:
+
+表过去的时间短语
+=======================
+
+- the other day 几天前
+- the other morning/afternoon/evening/night 几天前的上午/下午/晚上/夜里
+- the other week/month/year 几周/月/年前
+

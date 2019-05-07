@@ -193,7 +193,7 @@ beside 介词，表示“在……旁边” ::
 
 短语动词一般是短小和简单的动作词，连用的介词一般是表示位置和方向的介词。例如 ::
 
-along, down, off, on, out, over, under
+    along, down, off, on, out, over, under
 
 一个短语动词本身可能有不同的意义。 ::
 
@@ -734,3 +734,15 @@ Lesson 95~96
 
 
 :ref:`plenty-of`
+
+
+Lesson 97~98
+================
+
+所有格形容词和所有格代词。所有格形容词是限定词，放在名词前与名词构成名词短语，在句中做定语。所有格代词后面不能加名词，在句中做主语、宾语、表语用。
+
+:doc:`nominative-objective-case-genitive`
+
+pence - penny 的复数形式
+
+``It's got a zip.`` 中的 ``it's = it has`` 而非 ``it is``
