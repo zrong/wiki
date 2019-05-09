@@ -340,3 +340,30 @@ Lesson 93~94
 and 当 but(而...)，起到转折作用 ::
 
     He is only forty-one years old, and he has ...
+
+
+Lesson 99~100
+================
+
+试着站起来 ::
+
+    Try and stand up
+
+    用 and 把两个动词连在一起用来鼓励某种动作。
+
+
+让我帮帮你 ::
+
+    Let me help you.
+
+    let 有允许的意思，注意在 let 后面要加不带 to 的动词不定式。
+
+
+Lesson 101~102
+================
+
+朋友间通信常用结束语 ::
+
+    Love, Jimmy 爱你的，吉米
+
+    Yours, Jimmy 你的，吉米
