@@ -367,3 +367,31 @@ Lesson 101~102
     Love, Jimmy 爱你的，吉米
 
     Yours, Jimmy 你的，吉米
+
+
+Lesson 103~104
+================
+
+通过一个考试，直接用 pass，通过一个科目，用 pass in ::
+
+    I think I passed in English and Mathematics.
+
+用于征求他人意见 ::
+
+    How about...?
+
+振作起来 ::
+
+    Cheer up!
+
+
+Lesson 105~106
+================
+
+怎样拼写 ::
+
+    Houw do you spell ...?
+
+充满了... ::
+
+    full of ...
