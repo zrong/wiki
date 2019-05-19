@@ -778,4 +778,82 @@ Lesson 105~106
 
     He doesn't want her to type it again.
     He want her not to type it again.
-    
+
+
+Lesson 107~108
+================
+
+.. glossary::
+
+    形容词的比较级和最高级
+
+单音节词，末尾加 ``-er`` 和 ``-est`` ::
+
+    small - smaller - smallest
+
+一个元音字母，末尾一个辅音字母结尾，双写辅音字母 ::
+
+    big - bigger - biggest
+
+    thin - thinner - thinnest
+
+单音节形容词以 ``-e`` 结尾，直接加 ``-r`` 和 ``-st`` ::
+
+    large - larger - largest
+
+    nice - nicer - nicest
+
+以 ``辅音字母 + y`` 结尾，``y`` 变成 ``i``，再加 ``-er`` 和 ``-est`` ::
+
+    easy - easier - easiest
+
+    heavy - heavier - heaviest
+
+两个以上音节的形容词，使用 more 和 most 相连构成比较级和最高级。
+
+比较级用于两者之间，通常用 than 相连。比较级所指如果很清晰，也可以单独使用 ::
+
+    This coat is longer.
+
+最高级用于三者或者三者以上，在使用的时候必须加定冠词，并常常伴有表示范围的介词短语或者从句 ::
+
+    That girl is the tallest student in our class.
+
+
+Lesson 109~110
+================
+
+.. glossary::
+
+    many 和 few
+
+many 和 few 用来修饰可数名词的多与少。 ::
+
+    Have you got any mistakes?
+
+    I haven't make many.
+    I've made very few.
+
+    I've made more than you have.
+    I've made fewer than you have.
+
+    I've made the most.
+    I've made the fewest.
+
+.. glossary::
+
+    much 和 little
+
+much 和 little 用来修饰不可数名词的多与少。 ::
+
+    Have you got any chocolate?
+
+    I haven't got much.
+    I've got very little.
+
+    I've got more than you have.
+    I've got less than you have.
+
+    I've got the most.
+    I've got the least.
+

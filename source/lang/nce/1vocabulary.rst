@@ -779,3 +779,24 @@ Lesson 103~104
 ================
 
 paper 当做“试卷”讲的时候，是可数名词。
+
+Lesson 109~110
+================
+
+.. glossary::
+
+    形容词的比较级和最高级
+
+不规则形容词 ::
+
+    good - better - best
+
+    bad - worse - worst
+
+    many/much - more - most
+
+    little - less - least
+
+    far - farther - farthest
+
+    far - further - furthest

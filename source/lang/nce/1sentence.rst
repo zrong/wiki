@@ -395,3 +395,29 @@ Lesson 105~106
 充满了... ::
 
     full of ...
+
+
+Lesson 107~108
+================
+
+你愿意 ... 吗？ ::
+
+    Would you like ... ?
+
+Could 表示请求，比 Can 开头更加委婉 ::
+
+    Could you ... ?
+
+
+Lesson 109~110
+================
+
+我想要... ::
+
+    I would like = I'd like
+
+用 ``What a + 可数名词`` 和 ``What + 不可数名词`` 表示感叹。
+
+真遗憾 ::
+
+    What a pity!
