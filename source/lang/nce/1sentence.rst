@@ -421,3 +421,23 @@ Lesson 109~110
 真遗憾 ::
 
     What a pity!
+
+
+Lesson 111~112
+================
+
+分期付款 ::
+
+    buy ... on instalments
+
+花不起那么多钱 ::
+
+    can't afford all that money.
+
+预付款 ::
+
+    pay a deposit of thirty pounds.
+
+每月 14 英镑，3 年付清 ::
+
+    fourteen pounds a month for three years.

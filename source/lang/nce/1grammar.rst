@@ -857,3 +857,30 @@ much 和 little 用来修饰不可数名词的多与少。 ::
     I've got the most.
     I've got the least.
 
+
+Lesson 111~112
+================
+
+.. glossary::
+
+    形容词比较级级别
+
+形容词比较级的三个级别：平级比较急，较低比较级，较高比较级。
+
+
+平级比较级： ::
+
+    as ... as
+
+    The green apple is as sweet as the red one.
+
+    The television on the left is not as expensive as the television on the right.
+
+较高比较级： ::
+
+    This test is more difficult than last test.
+
+较低比较级： ::
+
+    This book is less interesting than last book I'v just read.
+
