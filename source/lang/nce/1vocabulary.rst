@@ -800,3 +800,10 @@ Lesson 109~110
     far - farther - farthest
 
     far - further - furthest
+
+
+Lesson 113~114
+================
+
+change 既可以作为动词使用，取“兑换”之意，也可以作为名词使用，取“零钱”之意。
+

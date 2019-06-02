@@ -884,3 +884,59 @@ Lesson 111~112
 
     This book is less interesting than last book I'v just read.
 
+
+Lesson 113~114
+================
+
+.. glossary::
+
+    so 和 neither
+
+以 so 或者 neither 开头的简短回答使用倒装形式： ``So/Neither + 助动词 + 主语`` 。
+
+如果前一句是肯定的，后一句就用 so 开头；如果前一句是否定的，后一句就用 neither 开头。 ::
+
+    I'm afraid I can't.
+
+    Neither am I.
+
+    I've got some small change.
+
+    So have I.
+
+.. glossary::
+
+    none
+
+none 与可数/不可数名词均可以连用。 ::
+
+    None of our passengers can change this note.
+
+    I've got none.
+
+none 与 ``no + 名词`` ::
+
+    Have you got andy envolopes?
+
+    I haven't got any.
+
+    I've got no envelopes.
+
+    I've got none.
+
+
+.. glossary::
+
+    either 和 neither
+
+either 跟在否定句末作为转折，翻译为“也”。neither 则本身就有否定的含义。 ::
+
+    I haven't any either.
+
+    Neither have I.
+
+Lesson 115~116
+================
+
+:doc:`indefinite-pronoun`
+

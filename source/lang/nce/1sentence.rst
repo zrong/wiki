@@ -441,3 +441,34 @@ Lesson 111~112
 每月 14 英镑，3 年付清 ::
 
     fourteen pounds a month for three years.
+
+
+Lesson 113~114
+================
+
+使用 ``no + 名词`` 表示所指的东西完全没有，比 ``not got any`` 更加强烈。 ::
+
+    I've got no small change.
+
+    I haven't got any small change.
+
+下车 ::
+
+    get off the bus.
+
+
+Lesson 115~116
+================
+
+nice and ... 用于形容词或者副词前加强语气。一般表示褒义，有时也表示贬义。 ::
+
+    It's nice and warm out here.
+
+none left. 一点都不剩了 ::
+
+    There's none left.
+
+    left 是 leave 的过去分词。表示“剩下的，没用完的”。它通常位于不定代词之后，出现在 ``there be`` 结构中。
+
+    There is nothing left in the refrigerator.
+
