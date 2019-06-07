@@ -58,19 +58,21 @@ Lesson 13~14
 
         What color is it?
 
-- 祈使句
+.. glossary::
 
-    - 祈使句主语通常不直接表示，谓语使用动词原形。
+    祈使句
 
-        例句： ::
+- 祈使句主语通常不直接表示，谓语使用动词原形。
 
-            Follow me.
+    例句： ::
 
-    - 某些祈使句后跟and和另一个祈使动词，而不是使用带to的动词不定式。
+        Follow me.
 
-        例句： ::
+- 某些祈使句后跟and和另一个祈使动词，而不是使用带to的动词不定式。
 
-            Come upstairs and see it. (不用Come to see it）.
+    例句： ::
+
+        Come upstairs and see it. (不用Come to see it）.
 
 Lesson 17~18
 ====================
@@ -170,14 +172,20 @@ Lesson 31~32
 Lesson 33~34
 ====================
 
-现在进行时
+.. glossary::
+
+    现在进行时
 
 当主语是复数或者第二人称的时候，be动词的形态要发生改变。
 
 Lesson 37~38
 ==============
 
-一般将来时 be going to
+.. glossary::
+
+    一般将来时
+
+        be going to
 
 be的现在时形态 ``am/is/are going to + 动词原形`` 。在非正式语体中，一般多用 ``be going to`` ，
 而不用 ``will``  ::
@@ -202,11 +210,13 @@ Lesson 39~40
 Lesson 41~42
 =====================
 
-There be 结构
+.. glossary::
 
-  - 当there be结构后面接单数名字或者不可数名词时，动词be的一般现在时形式为 is；
-  - 当there be结构后面接复数名词时，动词be的一般现在时形式为 are；
-  - 当there be结构后面接并列名词，而第一个名词是单数，动词be的一般现在时形式为 is。
+    There be 结构
+
+- 当there be结构后面接单数名字或者不可数名词时，动词be的一般现在时形式为 is；
+- 当there be结构后面接复数名词时，动词be的一般现在时形式为 are；
+- 当there be结构后面接并列名词，而第一个名词是单数，动词be的一般现在时形式为 is。
 
 例句： ::
 
@@ -218,7 +228,9 @@ There be 结构
 Lesson 43~44
 ==================
 
-can 情态助动词
+.. glossary::
+
+    can 情态动词
 
 它本身不表示动词，只表示体力或者脑力方面的能力或者客观的可能。
 
@@ -235,7 +247,9 @@ can的否定形式为 ``can not, cannot, can't`` ::
 Lesson 45~46
 =====================
 
-can 情态动词
+.. glossary::
+
+    can 情态动词
 
 can的疑问句形式，将can置于句首，后接句子主语和主要位于动词 ::
 
@@ -940,3 +954,62 @@ Lesson 115~116
 
 :doc:`indefinite-pronoun`
 
+
+Lesson 117~118
+================
+
+.. glossary::
+
+    过去进行时
+
+be 的过去式 + 现在分词
+
+过去进行时和一般过去式经常在同一个句子中使用。过去进行时表示过去正在进行的情况或者动作，一般过去时则表示比较短暂的动作或者事件。
+
+过去进行时的时间状语从句一般由 when，while，just as 等来引导，说明主句中动作发生时的背景。
+
+可以用 while 和 at the time 等强调同时进行两种或者几种动作。
+
+
+.. glossary::
+
+    同位语
+
+紧跟在一个名词或者代词后面，进一步说明前面的名词或者代词是谁或什么东西的名词或者代词，叫做同位语。
+
+all 来强调每一个硬币，是 them 的同位语。 ::
+
+    We could not find them all.
+
+其中 Tommy 是 boy 的同位语。 ::
+
+    Our little boy, Tommy.
+
+both 是 them 的同位语。 ::
+
+    He put them both into his mouth.
+
+both 是 we 的同位语。 ::
+
+    We both tried to get the coins.
+
+过去完成时的使用，表示两个动作中发生在前面的那个动作。 ::
+
+    Tommy had already swallowed them!
+
+:term:`过去完成时`
+
+Lesson 119~120
+================
+
+.. glossary::
+
+    过去完成时
+
+        had + 过去分词
+
+过去完成时表示两个事件中一个发生在前，或者说表示较早的过去。
+
+常与现在完成时连用的副词也用于过去完成时：already, ever, for + 表示时段的词, just, never，用来强调事件发生的先后次序。
+
+After they had entered the house, they went into the dining room.
