@@ -472,3 +472,19 @@ none left. 一点都不剩了 ::
 
     There is nothing left in the refrigerator.
 
+
+Lesson 121~122
+================
+
+忘了所谋事 ::
+
+    forget to do sth.
+
+戴上... ，当宾语是名词的时候，可以放在中间和后面。当宾语是代词的时候，只能放在中间 ::
+
+    Put on your coat.
+
+    Put your coat on.
+
+    Put it on.
+

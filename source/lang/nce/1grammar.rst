@@ -1013,3 +1013,24 @@ Lesson 119~120
 常与现在完成时连用的副词也用于过去完成时：already, ever, for + 表示时段的词, just, never，用来强调事件发生的先后次序。
 
 After they had entered the house, they went into the dining room.
+
+Lesson 121~122
+================
+
+.. glossary::
+
+    定语从句
+
+定语从句就像形容词一样起修饰作用。它位于所修饰的名词之后。
+
+定语从句由关系代词引导，who/whom/that 修饰人，which/that 修饰物体。
+
+关系菜地指代从句的主语或者宾语，同时又充当连接词，把主句和从句连接起来。
+
+当主句作为宾语的时候，关系代词应该使用 whom。但在口语中经常用 who 替代 whom 。 ::
+
+    They are the windows which the children broke yesterday.
+
+    She is the lady whom I served yesterday.
+
+    The man who I served was wearing a hat. 口语中使用 who 替代 whom 。
