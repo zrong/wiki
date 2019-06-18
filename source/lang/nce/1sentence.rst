@@ -488,3 +488,27 @@ Lesson 121~122
 
     Put it on.
 
+
+Lesson 123~124
+================
+
+留胡子 ::
+
+    grow ad beard
+
+刮胡子 ::
+
+    shave it off
+
+Lesson 127~128
+================
+
+我也这样想 ::
+
+    I thought so.
+
+    I hope so.
+
+    I except so.
+
+    I told you so.

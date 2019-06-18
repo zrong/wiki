@@ -656,8 +656,9 @@ will 除了表示纯粹的将来时，还表示说话人的意图和意愿。而
 Lesson 95~96
 ================
 
-had better 与 must
+.. glossary::
 
+    had better 与 must
 
 had better 表示“最好还是”，“最好”，表达某种程度的忠告或者建议。
 
@@ -1034,3 +1035,95 @@ Lesson 121~122
     She is the lady whom I served yesterday.
 
     The man who I served was wearing a hat. 口语中使用 who 替代 whom 。
+
+Lesson 123~124
+================
+
+.. glossary::
+
+    定语从句
+
+关系代词代表主语并且从句中的位于动词是进行时态，关系代词以及助动词 be 均可以省略。
+
+关系代词代表宾语，关系代词可以省略。
+
+定于从句可以用介词结尾。 ::
+
+    The woman standing behind the counter served me.
+
+    This is the book I bought yesterday.
+
+    The man I served was wearing a hat.
+
+    That's the ship we travelled on.
+
+    That's the man I told you about.
+
+.. glossary::
+
+    一般疑问句
+
+一般疑问句的否定回答。 ::
+
+    It's not you, is it? 这不是你，对吗？
+
+    That's right. 不，是我。
+
+    Yes, it is. 那正是我。
+
+用否定形式提问，但回答根据事实情况来决定。翻译成中文的时候，要翻译成否定语境。
+
+Lesson 125~126
+================
+
+.. glossary::
+
+    must/have to/needn't
+
+must 和 have to 都可以翻译为“不得不，必须”，表示不可逃避的义务或者责任。
+
+- have to 强调客观多一些，must 则着重于说明主观看法。
+
+- have to 可以表达过去或将来的必要性，must 一般只能表达现在的必要性。
+
+例句： ::
+
+    I must water the garden first.
+
+    Last summer it was very dry. I had to water it every day.
+
+用 must 提问，只能用 needn't 来表达否定的回答。needn't 可以理解为 have to 的否定回答。
+
+``needn't(dont't need to)`` 和 ``don't have to`` 都表示不必要，
+而 ``mustn't`` 却表示绝对禁止，在说话人看来没有选择余地。查看例句： ::
+
+
+    Must hse leve early? She needn't leave early.
+
+    Do you have to take a taxi? I don't have to/need to take a taxi.
+
+
+Lesson 127~128
+================
+
+.. glossary::
+
+    must 和 can't
+
+表示猜测和推断。一般和 be 连用。
+肯定的推断使用 must be ，否定的推断使用 can't be。
+不用 mustn't。 ::
+
+    It must be Karen Marsh.
+
+    It can't be.
+
+
+.. glossary::
+
+    同位语
+
+反身代词作为主语 I 的同位语，加强语气。 ::
+
+    I'm not more then twenty-nine myself.
+
