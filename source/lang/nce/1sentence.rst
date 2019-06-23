@@ -512,3 +512,21 @@ Lesson 127~128
     I except so.
 
     I told you so.
+
+Lesson 129~130
+================
+
+一定/准是在做某事 ::
+
+    must have been doing sth.
+    can't have been doing sth.
+
+听从劝告 ::
+
+    take one's advice
+
+以xx速度行驶 ::
+
+    at seventy miles an hour. 以每小时 70 英里的速度行驶
+
+    I was doing eighty when I overtook you. 其中的 do 表示以 xx 速度行进

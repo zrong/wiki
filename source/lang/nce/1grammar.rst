@@ -1127,3 +1127,25 @@ Lesson 127~128
 
     I'm not more then twenty-nine myself.
 
+
+Lesson 129~130
+================
+
+.. glossary::
+
+    must 和 can't
+
+不仅能表示对现在和将来的推测和判断，也可以表达对过去的推测和判断。
+用 ``must have been`` 表示肯定的推断，用 ``can't have been`` 表示否定的推断。
+也可以使用进行时表达对过去正在进行的动作进行判断。 ::
+
+    Your must have been driving at seventy miles an hour.
+
+.. glossary::
+
+    had better
+
+用来建议将来某一具体场合采取的动作，而不用于一般情况，比 should 的语气更加待续，常带有威胁、告诫或者催促的意味。
+
+``You'd better = you had better`` 后面加上动词原形。
+
