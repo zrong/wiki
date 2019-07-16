@@ -530,3 +530,36 @@ Lesson 129~130
     at seventy miles an hour. 以每小时 70 英里的速度行驶
 
     I was doing eighty when I overtook you. 其中的 do 表示以 xx 速度行进
+
+Lesson 131~132
+===================
+
+我不确定 ::
+
+    I'm not sure.
+
+
+照看 ::
+
+    look after
+
+最后 ::
+
+    in the end
+
+打定主意 ::
+
+    make up our minds
+
+乘船，乘车 ::
+
+    by sea/by air/by bus/by foot
+
+花很长时间 ::
+
+    take a long time
+
+Lesson 133~134
+===================
+
+by our reporter = written by our reporter

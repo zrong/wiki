@@ -230,7 +230,7 @@ Lesson 43~44
 
 .. glossary::
 
-    can 情态动词
+    情态动词 can
 
 它本身不表示动词，只表示体力或者脑力方面的能力或者客观的可能。
 
@@ -249,7 +249,7 @@ Lesson 45~46
 
 .. glossary::
 
-    can 情态动词
+    情态动词 can
 
 can的疑问句形式，将can置于句首，后接句子主语和主要位于动词 ::
 
@@ -1149,3 +1149,53 @@ Lesson 129~130
 
 ``You'd better = you had better`` 后面加上动词原形。
 
+
+Lesson 131~132
+===================
+
+.. glossary::
+
+    情态动词 may
+
+    may 和 might 都表示“可能”、“也许”。通常可以通用。但 might 表示的可能性比 may 要小。当情况是虚拟的时候，只能用 might 不能用 may。
+
+may 表示现在和将来的可能性 ``may + 动词原形`` ::
+
+    The bread may be fresh.
+
+    He may be in his room.
+
+may 表示过去的可能性 ``may + have (done)`` ::
+
+    He may have been busy.
+
+    He may have been in the garden.
+
+比较 may/must ::
+
+    He is working. 确信不疑的事实。
+
+    He may be working. 对现在可能发生事情的猜测。
+
+    He must be working. 对现在所发生事情有根据的推论。
+
+    He may have been working. 对过去所发生事情的猜测。
+
+Lesson 133~134
+===================
+
+.. glossary::
+
+    需改变时态的间接引语
+
+    间接引语中的时态常常需要往回移（backshift）。现在时变成过去时，过去时变成过去完成时。过去时情态动词和过去完成时在转述的时候不改变时态，因为已经无法往回移。
+
+时态的回移 ::
+
+    can - could
+
+    may - maight
+
+    will - would
+
+    have - had

@@ -575,13 +575,13 @@ Lesson 79~80
 
     need
 
-need 表示“需要，必须”。佐助动词多用于疑问句和否定句：
+need 表示“需要，必须”。佐助动词多用于疑问句和否定句： ::
 
     Need I make an appointment?
 
     You need not hurry.
 
-need 也可以作为实意动词使用，需要人称，数和石台上的变化。疑问句中也需要用助动词 do。例如：
+need 也可以作为实意动词使用，需要人称，数和石台上的变化。疑问句中也需要用助动词 do。例如： ::
 
     We need a lot of things this week.
 
@@ -595,7 +595,7 @@ need 也可以作为实意动词使用，需要人称，数和石台上的变化
 
     完全动词 have
 
-dont's have = haven't got
+dont's have = haven't got ::
 
     We haven't got much tea or coffee.
 
@@ -610,7 +610,7 @@ Lesson 81~82
 
 have 可以替代常用动词，表示 ``eat/enjoy/experience/drink/take`` 等含义。
 
-此时的 have 是行为动词，所以和动作有关，而不表示“具有”状态，因此，此时它可以用于各种时态。
+此时的 have 是行为动词，所以和动作有关，而不表示“具有”状态，因此，此时它可以用于各种时态。 ::
 
     Do you have milk in your tea?
 
@@ -625,7 +625,8 @@ Lesson 85~86
 
     never 和 ever
 
-never 表示“从无”，“从未”，有强调的含义。ever 常常用于否定句、疑问句以及表示条件的从句中表示“以往任何时候”，“曾经”、“在任何时候”、“从来”这类意思。
+never 表示“从无”，“从未”，有强调的含义。
+ever 常常用于否定句、疑问句以及表示条件的从句中表示“以往任何时候”，“曾经”、“在任何时候”、“从来”这类意思。
 
 Lesson 87~88
 ================
@@ -811,11 +812,13 @@ change 既可以作为动词使用，取“兑换”之意，也可以作为名�
 Lesson 117~118
 ================
 
-寻找
+.. glossary::
 
-look for 强调动作过程
+    寻找
 
-find 强调寻找的结果
+    look for 强调动作过程
+
+    find 强调寻找的结果
 
 later that morning 那天上午的晚些时候
 
@@ -856,4 +859,14 @@ Lesson 127~128
 +--------+--------+----------+
 | read   | read   | read     |
 +--------+--------+----------+
+
+
+Lesson 133~134
+================
+
+make 可以表示 “做出某种举动”，意义根据宾语决定。 ::
+
+    Have you just made a new film, Miss Marsh?
+
+    make another (film)
 

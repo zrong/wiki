@@ -7,6 +7,8 @@ can/must/have to/need/do
 
 :term:`情态动词 must`
 
+:term:`情态动词 can`
+
 :term:`禁令`
 
 :term:`must 和 can't`
@@ -14,3 +16,5 @@ can/must/have to/need/do
 :term:`had better 与 must`
 
 :term:`must/have to/needn't`
+
+:term:`情态动词 may`
