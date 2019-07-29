@@ -563,3 +563,20 @@ Lesson 133~134
 ===================
 
 by our reporter = written by our reporter
+
+Lesson 137~138
+===================
+
+下足球赛的赌注 ::
+
+    do the football pools
+
+周游世界 ::
+
+    see the world
+
+    travel round the world
+
+取决于，依靠 ::
+
+    depend on

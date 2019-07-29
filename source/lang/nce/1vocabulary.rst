@@ -870,3 +870,15 @@ make 可以表示 “做出某种举动”，意义根据宾语决定。 ::
 
     make another (film)
 
+Lesson 135~136
+================
+
+结婚 ::
+
+    get married
+
+
+将 A 介绍给 B ::
+
+    introduce A to B
+

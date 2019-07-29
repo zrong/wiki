@@ -1199,3 +1199,32 @@ Lesson 133~134
     will - would
 
     have - had
+
+    going to - would
+
+    won't - wouldn't
+
+Lesson 135~136
+===================
+
+.. glossary::
+
+    let
+
+let 与一般动词不同，它用于 ``动词+宾语+动词原形`` 结构，后面可以接名词或者代词，再接不带 to 的动词不定式。 ::
+
+    She lets her son play in the garden.
+
+    Let me introduce him to you.
+
+Lesson 137~138
+===================
+
+.. glossary::
+
+    第一类条件句
+
+if + 一般现在时 + 将来时（或者情态助动词）
+
+表示事情可能会或者不会发生，if 引导的是从句。一切现在时态都可以用在 if 之后，而不仅仅是一般现在时。
+
