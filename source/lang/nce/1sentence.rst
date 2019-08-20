@@ -580,3 +580,10 @@ Lesson 137~138
 取决于，依靠 ::
 
     depend on
+
+Lesson 139~140
+================
+
+英文中表示客气常常把他人姓名放在“我”之前。 ::
+
+    She invited Charlotte and me to dinner this evening.

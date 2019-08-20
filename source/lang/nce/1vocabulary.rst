@@ -882,3 +882,55 @@ Lesson 135~136
 
     introduce A to B
 
+Lesson 141~142
+================
+
+我那 4 岁的女儿 ::
+
+    My four-year-old daughter
+
+名词和连字符构成了一个复合词，不使用复数形式。
+
+
+一位中年女士 ::
+
+    a middle-aged lady
+
+拿出 ::
+
+    take out
+
+化妆 ::
+
+    make up her face
+
+收拾好 ::
+
+    put away
+
+.. glossary::
+
+    ago 和 before
+
+ago 用在过去时的句子里，before 用在完成时的句子里。 ::
+
+    She had never travelled on a train before.
+
+Lesson 143~144
+================
+
+覆盖着 ::
+
+    was covered with
+
+环绕着 ::
+
+    is surrounded by
+
+数以百计的人 ::
+
+    hundreds of people
+
+去散步 :;
+
+    go for a walk

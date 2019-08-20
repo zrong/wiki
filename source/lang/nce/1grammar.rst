@@ -676,9 +676,9 @@ Lesson 99~100
 
 宾语从句在句中做宾语，一般用 that 引导，但在口语中经常省略 that。
 
-可以用在 say/think/believe/hope/know/understand/suppose 等动词之后。
+可以用在 ``say/think/believe/hope/know/understand/suppose`` 等动词之后。
 
-可以用在某些描述感情的形容词之后： afraid/sure/sorry/glad 。
+可以用在某些描述感情的形容词之后： ``afraid/sure/sorry/glad`` 。
 
 
 Lesson 101~102
@@ -1228,3 +1228,61 @@ if + 一般现在时 + 将来时（或者情态助动词）
 
 表示事情可能会或者不会发生，if 引导的是从句。一切现在时态都可以用在 if 之后，而不仅仅是一般现在时。
 
+
+Lesson 139~140
+===================
+
+.. glossary::
+
+    宾语从句
+
+用 ``when/where/what/why/how/if/whether`` 引导的宾语从句，
+疑问词不能省略。被引导的宾语从句应该以陈述句的形式出现。 ::
+
+    I don't know when I'll finish.
+
+Lesson 141~142
+================
+
+.. glossary::
+
+    被动语态
+
+被动句中，主语是动作的承受着。使用被动语态的目的是避免使用不明确的词(anyonye/someone)作为主语，
+或者将说话的重点放在事件而不是造成该事件的人或者物。
+
+被动语态的构成：
+
+一般现在时形式： ``am/are/is + 过去分词`` ::
+
+    The room is aired regularly.
+    The knives are shrpened regularly.
+
+一般过去时形式： ``was/were + 过去分词`` ::
+
+    She was dressed in red.
+    The windows were opened this morning.
+
+表达感情的动词常常可以用于被动语态 ``amuse/embarrass/worry/suprise/upset/intrest`` ::
+
+    She is embarrassed.
+    They were worried.
+
+Lesson 143~144
+================
+
+.. glossary::
+
+    被动语态
+
+被动语态的构成：
+
+现在完成时形式： ``has/have + been + 过去分词`` ::
+
+    The basket has already been empied.
+    Litter baskets have been placed under the three.
+
+一般将来时形式： ``will/shall + be + 过去分词`` ::
+
+    The floor will be swept soom.
+    Anyone who leaves litter in these woods will be prosecuted!
