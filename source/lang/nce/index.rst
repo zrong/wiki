@@ -9,6 +9,9 @@
    1vocabulary
    1grammar
    1sentence
+   2vocabulary
+   2grammar
+   2sentence
 
 ----
 
