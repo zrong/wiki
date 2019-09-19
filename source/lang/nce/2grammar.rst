@@ -30,3 +30,34 @@ Lesson 1
 - 4 为状语
 - 5 为补语
 - 6 为时间状语。
+
+Lesson 2
+===============
+
+.. glossary::
+
+    一般现在时与现在进行时
+
+一般现在时表示习惯性动作，和频度副词连用。
+
+often/always/sometimes/never
+
+现在进行时也用来表示当前（一段时间）的动向 ::
+
+    Jack is working hard these days.
+
+    He does not usually work hard.
+
+.. glossary::
+
+    感叹句
+
+``What + adj. + n. + 主语 + 谓语 + !``
+
+主语和谓语经常被省略： ::
+
+    What an interesting play(it is)!
+
+如果没有形容词，通常表示负面含义： ::
+
+    What a day!

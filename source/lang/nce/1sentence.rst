@@ -229,6 +229,10 @@ Lesson 67~68
 
     be absent from
 
+.. glossary::
+
+    感叹句
+
 否定形式的感叹句，用来加强语气强调肯定 ::
 
     Aren't you lucky!
@@ -415,6 +419,10 @@ Lesson 109~110
 我想要... ::
 
     I would like = I'd like
+
+.. glossary::
+
+    感叹句
 
 用 ``What a + 可数名词`` 和 ``What + 不可数名词`` 表示感叹。
 
