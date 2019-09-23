@@ -61,3 +61,30 @@ often/always/sometimes/never
 如果没有形容词，通常表示负面含义： ::
 
     What a day!
+
+Lesson 3
+===============
+
+.. glossary::
+
+    一般过去时
+
+一般过去时通常表示过去发生现在已经结束的事件。它通常指动作何时发生，而不指动作持续多久。因此常与表示过去的时间状语连用。
+
+
+.. glossary::
+
+    直接宾语与间接宾语
+
+Direct object and Indirect object
+
+直接宾语指动作涉及到的事物，间接宾语指动作对谁而作。
+通常间接宾语在前，直接宾语在后。
+
+若需要强调直接宾语，可以将其放在动词后，那么在两个宾语之间需要使用介词 ``to`` 或者 ``for`` 。
+
+``send/buy/give/lend/tell/return/write/pay/teach/make/buy/find``
+等词可以有两个宾语。一个直接宾语（通常指物），一个间接宾语（通常指人）。 ::
+
+    Then he lent me a book.
+    Then he lent a book to me.

@@ -72,3 +72,41 @@ until 用于表示动作，状态的持续，一般译为： “直到……为�
 在否定句中，它通常与表述短暂动作的动词连用，表示“到……为止”，“直到……才”。
 
     She cannot arrive until 6.
+
+Lesson 3
+===============
+
+a few 可以与复数名词连用，表示肯定，含有 some/a small number of 的意思。 ::
+
+    The police would like to ask him a few questions.
+
+... but I did not understand a word. ``not ... a`` 的否定含义比单用 ``not`` 要强。 ::
+
+    I did not understand a word. I did not understand.
+
+    I did not write a single card. I did not write any cards.
+
+    He did not speak a word at the party. He did not speak at the party.
+
+thank about 一段时间一直在想或者思考某事 ::
+
+    I often think about the lovely holiday we had last year.
+
+make/take a decision 作出一项重大决定 ::
+
+    It was not easy for me to make this decision.
+
+I spent the whole day in my room... spend 表示花时间、花钱 ::
+
+    We're going to spend threee days in the country.
+
+    If we spend all the money, we'll be poor again.
+
+whole 整个的 ::
+
+    a whole year
+
+    a whole bottle of milk.
+
+    two whole weeks.
+
