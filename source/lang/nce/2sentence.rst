@@ -143,4 +143,3 @@ different from 不同的，相异的 ::
     Desks are different from tables.
 
     My room is different from yours.
-    
