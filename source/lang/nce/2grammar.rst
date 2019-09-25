@@ -88,3 +88,43 @@ Direct object and Indirect object
 
     Then he lent me a book.
     Then he lent a book to me.
+
+Lesson 4
+===============
+
+.. glossary::
+
+    现在完成时与现在进行时
+
+现在完成时关注的时间概念有时是不确定的。我们所关心的是显存的结果，或者过去发生的事情对现在的影响。
+
+现在完成时不能和明确表示过去的副词连用，例如： ago/yesterday。
+
+经常和现在完成时连用的副词有：
+before now/so far/up to now/just/already/lately/now 。
+
+疑问句和否定句的现在完成时经常使用：
+ever/yet/never/not...ever 等等
+
+现在进行时经常用于表示短期内正在进行的动作或存在的情况，因此往往不需要和时间状语连用。
+
+例句 ::
+
+    Have you washed the dishes yet?
+    I'm washing them now.
+
+    I have just made the cakes.
+    I am making cakes.
+
+.. glossary::
+
+    同位语
+
+Appositives 一个名词或短语与另一个名词或短语并列作为其说明或者限定成分的时候，称为同位语。
+同位语与它要补充说明的成分之间用逗号隔开。 ::
+
+    I have just received a letter form my brother, Tim.
+    He has just bought a Australian car and has gone to Alice Springs, a small town in the center of Australia.
+
+
+    

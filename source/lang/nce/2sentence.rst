@@ -80,7 +80,7 @@ a few 可以与复数名词连用，表示肯定，含有 some/a small number of
 
     The police would like to ask him a few questions.
 
-... but I did not understand a word. ``not ... a`` 的否定含义比单用 ``not`` 要强。 ::
+but I did not understand a word. ``not ... a`` 的否定含义比单用 ``not`` 要强。 ::
 
     I did not understand a word. I did not understand.
 
@@ -110,3 +110,37 @@ whole 整个的 ::
 
     two whole weeks.
 
+Lesson 4
+===============
+
+work for 在……上班 ::
+
+    Where do you work?
+    I work for a shoe factory.
+
+a number of 只能接收可数名词的复数形式。
+number 前面可以带有 big/great/large/good/small/certain 等等 ::
+
+    A great number of our students are Danish.
+
+    There are a small number of spelling mistakes in your homework.
+
+My brother has never been abord before,
+so he is finding this trip very exciting.
+
+so 后面的状语参数，表示结果。
+
+find 作为“发现，发觉”来讲的时候，往往带有宾语补足语，说明宾语的状况和性质。
+
+find 很少用于进行时态，一般用于过去时，完成时和一般现在时。 ::
+
+    I find the film very interesting.
+
+    She found Tom's room verty dirty.
+
+different from 不同的，相异的 ::
+
+    Desks are different from tables.
+
+    My room is different from yours.
+    
