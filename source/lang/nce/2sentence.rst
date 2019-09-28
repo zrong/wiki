@@ -143,3 +143,12 @@ different from 不同的，相异的 ::
     Desks are different from tables.
 
     My room is different from yours.
+
+Lesson 5 No wrong numbers
+======================================
+
+:doc:`phrases-with-the-word-way`
+
+from ... to ... 表示从一个地方到另一个地方 ::
+
+    Yesterday, a pigeon carried the first message from Pinhurst to Silbury

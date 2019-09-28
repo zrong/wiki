@@ -127,4 +127,11 @@ Appositives 一个名词或短语与另一个名词或短语并列作为其说�
     He has just bought a Australian car and has gone to Alice Springs, a small town in the center of Australia.
 
 
-    
+Lesson 5 No wrong numbers
+======================================
+
+.. glossary::
+
+    一般过去时与现在完成时
+
+在一段文章中可以同时出现一般现在时，一般过去式和现在完成时。要根据具体情况灵活应用时态。
