@@ -45,4 +45,3 @@ spare 抽出时间、让给、饶恕、赦免、多余的 ::
     I cannot buy spare parts for this car. 我买不起这辆车的备件。（用做形容词）
     There is a spare room in the house. 用做形容词
     The robbers spared his life. 饶恕，宽恕。
-

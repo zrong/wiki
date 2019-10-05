@@ -152,3 +152,24 @@ Lesson 5 No wrong numbers
 from ... to ... 表示从一个地方到另一个地方 ::
 
     Yesterday, a pigeon carried the first message from Pinhurst to Silbury
+
+Lesson 6 Percy Buttons
+======================================
+
+作为报答，作为交换 ::
+
+    in return for this
+
+in return 可以单独使用，也可以加上介词 for 表示说明
+
+表示频率
+
+:ref:`time-representation`
+
+表示请求 ::
+
+    ask sb. for sth. 也可以直接用 ask for
+
+    He asked his friends for advice.
+
+    He asked for his friends' advice.

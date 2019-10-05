@@ -24,7 +24,6 @@ any 表示不确定的数量，通常用在含有not的否定句中，也用于�
     There are no any spoons in the cupboard.
     Are there any cigarettes on the floor? No, there aren't.
 
-
 .. _many-and-much:
 
 many 和 much

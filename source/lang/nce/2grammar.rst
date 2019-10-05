@@ -126,7 +126,6 @@ Appositives 一个名词或短语与另一个名词或短语并列作为其说�
     I have just received a letter form my brother, Tim.
     He has just bought a Australian car and has gone to Alice Springs, a small town in the center of Australia.
 
-
 Lesson 5 No wrong numbers
 ======================================
 
@@ -135,3 +134,40 @@ Lesson 5 No wrong numbers
     一般过去时与现在完成时
 
 在一段文章中可以同时出现一般现在时，一般过去式和现在完成时。要根据具体情况灵活应用时态。
+
+Lesson 6 Percy Buttons
+======================================
+
+.. glossary::
+
+    不定冠词 a/an
+
+表示不确定的某个人或者东西的时候，使用不定冠词。
+
+表示不可数的名词时，用不定冠词加量词词组形成词组：
+
+    a glass of beer
+
+    a piece of cheese
+
+some 表示不确定的数量，但在表示泛指的陈述句中可以省略 some 或者不定冠词 ::
+
+    Yesterday I bought a book. Books are not very expensive.
+    I have just drunk a glass of milk. Milk is very refreshing.
+    Mrs. Jones bought a bag of flour, a bag of sugar and some tea. She always buys flour, sugar and tead at the grocer's.
+
+some 可以用于可数或者不可数名词。
+
+.. glossary::
+
+    短语动词
+    (Phrasal verbs)
+
+动词加上介词或者副词会改变词义。因此需要记忆整个短语。
+
+look after, put on, take off, look for
+
+I put your book on the shelf. I put on my hat and left the house.
+
+A begger knocked at my door. I knocked the varse off the table and broke it.
+

@@ -15,7 +15,9 @@ Lesson 1~4
 Lesson 5~6
 ================
 
-不定冠词 a 和 an
+.. glossary::
+
+    不定冠词 a/an
 
 Lesson 7~8
 ====================
@@ -98,7 +100,9 @@ Lesson 25~26
 
 :doc:`number-and-ordinal`
 
-定冠词 the
+.. glossary::
+
+    定冠词 the
 
 发音
 

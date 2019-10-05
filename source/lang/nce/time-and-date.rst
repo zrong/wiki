@@ -109,6 +109,11 @@ time做不可数名词的时候，代表时间；做可数名词的时候，代�
 - 三次 three times
 - 三次以上 基数词+times
 
+表示频率
+
+- 每月一次 once a month
+- 每周一次 once a week
+- 一年一次 once a year
 
 .. _time-future:
 
@@ -120,8 +125,8 @@ time做不可数名词的时候，代表时间；做可数名词的时候，代�
 - the week/month/year after next
 - in a day's time 一天以后
 - in a year's time 一年以后
-- in two weeks' time 
-- in three months' time 
+- in two weeks' time
+- in three months' time
 
 
 .. _time-past:
