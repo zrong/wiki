@@ -160,8 +160,7 @@ some 可以用于可数或者不可数名词。
 
 .. glossary::
 
-    短语动词
-    (Phrasal verbs)
+    短语动词 (Phrasal verbs)
 
 动词加上介词或者副词会改变词义。因此需要记忆整个短语。
 
@@ -170,4 +169,49 @@ look after, put on, take off, look for
 I put your book on the shelf. I put on my hat and left the house.
 
 A begger knocked at my door. I knocked the varse off the table and broke it.
+
+Lesson 7 Too late
+======================================
+
+.. glossary::
+
+    过去进行时(The past progressive tense)
+
+be 的过去式 + 现在分词
+
+过去进行时经常和一般过去时在同一个句子中连用。
+
+正在进行的动作往往用连词 when/while/as/just as 来引导。
+
+while 通常只引导持续时间较长的动作。主句和从句可以同时用过去进行时。 ::
+
+    John was watching TV while his wife was talking with a neighbour over the phone.
+
+as 和 when 所在的主句和从句一般不会同时使用过去进行时。 ::
+
+    Just as I was leving the house, you came in.
+
+when 可以引导比较短暂的动作，while 和 as 一般不会这样使用。 ::
+
+    We were having supper when the lights went out.
+
+过去进行时往往和标示一段时间的状语连用。 ::
+
+    What were you doing all evening?
+
+.. glossary::
+
+    短语动词中的小品词(The particles)
+
+短语动词中的副词和介词被称为小频次。带有宾语的是介词，没有宾语的是副词。 ::
+
+    I am looking for Tim. 介词
+
+    She looked after the baby. 介词
+
+    He put out the fire./He put the fire out. 副词
+
+
+
+
 

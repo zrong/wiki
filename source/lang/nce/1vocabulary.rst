@@ -820,9 +820,9 @@ Lesson 117~118
 
     寻找
 
-    look for 强调动作过程
+look for 强调动作过程
 
-    find 强调寻找的结果
+find 强调寻找的结果
 
 later that morning 那天上午的晚些时候
 

@@ -109,7 +109,10 @@ time做不可数名词的时候，代表时间；做可数名词的时候，代�
 - 三次 three times
 - 三次以上 基数词+times
 
+.. _frequency:
+
 表示频率
+==============
 
 - 每月一次 once a month
 - 每周一次 once a week

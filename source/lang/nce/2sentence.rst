@@ -164,7 +164,7 @@ in return 可以单独使用，也可以加上介词 for 表示说明
 
 表示频率
 
-:ref:`time-representation`
+:ref:`frequency`
 
 表示请求 ::
 
