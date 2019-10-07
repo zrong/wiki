@@ -173,3 +173,30 @@ in return 可以单独使用，也可以加上介词 for 表示说明
     He asked his friends for advice.
 
     He asked for his friends' advice.
+
+lesson 8 The best and the worst
+======================================
+
+报名参加 ::
+
+    enter for
+
+.. glossary::
+
+    each 和 every
+
+常常互换使用。
+
+each 更加强调个体。指一个确定的通常有限的数目。 ::
+
+    Every child in the school was questioned.
+
+every 不那么强调个体，常用来指一个大的，不确定的数目。 ::
+
+    Every child enjoys Christmas.
+
+.. glossary::
+
+    nearly 和 almost
+
+意义相似，表示“几乎”，“差不多”，“差点儿”

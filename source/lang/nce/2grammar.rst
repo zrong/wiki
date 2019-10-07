@@ -211,7 +211,26 @@ when 可以引导比较短暂的动作，while 和 as 一般不会这样使用�
 
     He put out the fire./He put the fire out. 副词
 
+lesson 8 The best and the worst
+======================================
 
+.. glossary::
 
+    形容词的比较级和最高级
 
+:doc:`comparative-and-superlative`
+
+最高级的限定词一般使用 ``of/among/in`` 等介词短语。 ::
+
+    John is the tallest of the three brothers.
+
+限定范围也可以是从句。 ::
+
+    Mary is the most intelligent person I've ever met.
+
+范围很清楚的时候可以省略。 ::
+
+    April is the best season.
+
+    He is always the best.
 

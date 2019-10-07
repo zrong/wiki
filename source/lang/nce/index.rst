@@ -28,3 +28,4 @@
    number-and-ordinal
    some-plenty
    can-must-haveto-need-do
+   comparative-and-superlative

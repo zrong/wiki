@@ -23,7 +23,6 @@
 
 做主语的时候，都作为单数看待，使用单数的谓语动词。
 
-
 Everyone is asleep.
 
 Everything is untidy.

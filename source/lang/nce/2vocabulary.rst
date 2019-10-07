@@ -54,3 +54,10 @@ keep guard 守望、警戒，与 stand guard（站岗、放哨）意思相近
 to their surperise 令他们吃惊的是。
 
 their 可以换成 my/his 等等所有格。但一般不会换成 your
+
+lesson 8 The best and the worst
+======================================
+
+every构成的合成词本身被看做单数形式。
+
+:doc:`indefinite-pronoun`
