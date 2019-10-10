@@ -61,3 +61,12 @@ lesson 8 The best and the worst
 every构成的合成词本身被看做单数形式。
 
 :doc:`indefinite-pronoun`
+
+lesson 9 The best and the worst
+======================================
+
+strike 的基本含义是“打”、“击”。用于钟、乐器的时候也有“敲”、“弹”之意。 ::
+
+    She struck the man in the face.
+
+    When I entered the room, the clock struck five.

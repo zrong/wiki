@@ -31,20 +31,46 @@
 
 .. _on-time:
 
-日期表示法
-=================
+介词 on 的时间短语
+==============================
 
-通常使用介词 on 表示星期几 ::
+介词 on 通常可以表示：
 
-    on Monday
-    on Monday morning
-    on April first
-    on Monday, April 1st
-    on your birthday
-    on Christmas day
+星期
+---------
+
+星期几 on Monday
+
+星期几的早上 on Monday morning
+
+日期
+--------------
+
+on April first
+(读作 on April the first)
+
+on 23rd March
+(读作 on the 23rd of March)
+
+on your birthday
+
+on Christmas day
+
+星期+日期
+---------------
+
+on Monday, April 1st
+(读作 on Monday April the first)
+
+具体时间
+---------------------
+
+on the day
+
+on that evening
 
 例句
-======
+------------------
 
 .. code::
 
@@ -67,11 +93,38 @@
 
 at 时间短语通常可以表示
 
-* 确切的时间 at seven o'clock
-* 用餐时间 at lunchtime
-* 其他时刻 at noon
-* 节日 at Christmas
-* 年龄 at the age of 27
+确切时间
+------------------------
+
+at seven o'clock
+
+at 5 o'clock
+
+用餐时间
+---------------
+
+at lunch time
+
+at dinner time
+
+at teatime
+
+其他时刻
+----------------
+
+at noon/night/midnight
+
+at this time
+
+节日
+-------------
+
+at Christmas
+
+年龄
+---------
+
+at the age of 27
 
 .. _in-time:
 
@@ -80,13 +133,68 @@ at 时间短语通常可以表示
 
 in 时间短语通常表示
 
-* 一天中的某段时间 in the evening
-* 月份 in March
-* 年份 in 1997
-* 季节 in spring
-* 世纪 in the 20th century
-* 节日 in Easter week
-* 时期 in the holidays
+一天中的某段时间
+------------------
+
+in the evening
+
+月份、年份
+-------------------------
+
+in March
+
+in 1997
+
+季节
+-----------------
+
+in spring
+
+世纪
+--------
+
+in the 20th century
+
+节日
+--------
+
+in Easter week
+
+时期
+---------------
+
+in the holidays
+
+in + 一段时间有两种含义。它可以表示“在某段时间之内”，例如上面的 `in the holidays`，
+此时它可以用于现在时，过去时或者将来时，一般与完成某个动作相关。 ::
+
+    I always eat my breakfast in ten miniutes.
+
+另外，它还可以表示 “一段时间之后”，与将来时连用。 ::
+
+    Mother will be back in ten days.
+
+
+.. _during-till:
+
+一段时间
+=================
+
+during 后面跟一个名词来指整个一段时间。有时也可以用 in 来指代一段时间。 ::
+
+    It was very hot during the summer.
+
+在过去时中不使用 in 来替代 during.
+
+
+from ... till ... 指一段明确的时间。 ::
+
+    The tourist season runs form June till October.
+
+短暂动作表示的时间段，只能在否定形式使用 till/untill。 ::
+
+    I won't leave till/untill Monday.
+
 
 .. _ampm:
 

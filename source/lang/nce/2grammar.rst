@@ -234,3 +234,40 @@ lesson 8 The best and the worst
 
     He is always the best.
 
+lesson 9 The best and the worst
+======================================
+
+:ref:`in-time`
+
+:ref:`on-time`
+
+:ref:`at-time`
+
+:ref:`during-till`
+
+.. glossary::
+
+    not any 和 no
+
+一般疑问句的两种否定回答形式，意思相同，但 no 比 not any 的语气要强烈。 ::
+
+    Have you go any time?
+
+    I haven't got any time./I've got no time.
+
+    Have you seen anyone?
+
+    I'v seen no one/nobody.
+
+    I haven't seen anyone/anybody.
+
+在一个句子中通常只能有一个否定词。 ::
+
+    I can't get any eggs.
+
+    I can get no eggs.
+
+一般不会说： `I can't get no eggs.`
+
+参见 :doc:`indefinite-pronoun`
+
