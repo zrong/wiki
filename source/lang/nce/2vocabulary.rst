@@ -55,14 +55,14 @@ to their surperise 令他们吃惊的是。
 
 their 可以换成 my/his 等等所有格。但一般不会换成 your
 
-lesson 8 The best and the worst
+Lesson 8 The best and the worst
 ======================================
 
 every构成的合成词本身被看做单数形式。
 
 :doc:`indefinite-pronoun`
 
-lesson 9 The best and the worst
+Lesson 9 The best and the worst
 ======================================
 
 strike 的基本含义是“打”、“击”。用于钟、乐器的时候也有“敲”、“弹”之意。 ::
@@ -70,3 +70,27 @@ strike 的基本含义是“打”、“击”。用于钟、乐器的时候也�
     She struck the man in the face.
 
     When I entered the room, the clock struck five.
+
+Lesson 10 Not for jazz
+======================================
+
+与被动形式的 made 连用的几个介词。
+
+made in 表示产地或者生产时间。 ::
+
+    This bike was made in China.
+
+    The clavichord was made in 1681.
+
+made by 表示制作人，由谁来制造。 ::
+
+    This skirt was made by Mary.
+
+made of 表示用某种材料制成，通常指制成之后不改变材料原来的性质或者形状 ::
+
+    This chair is made of wood.
+
+made from 表示用数种材料制成，通常指制成之后改变了材料原来的性质或者形状 ::
+
+    Paper can be made from wood.
+

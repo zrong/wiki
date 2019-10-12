@@ -211,7 +211,7 @@ when 可以引导比较短暂的动作，while 和 as 一般不会这样使用�
 
     He put out the fire./He put the fire out. 副词
 
-lesson 8 The best and the worst
+Lesson 8 The best and the worst
 ======================================
 
 .. glossary::
@@ -234,7 +234,7 @@ lesson 8 The best and the worst
 
     He is always the best.
 
-lesson 9 The best and the worst
+Lesson 9 The best and the worst
 ======================================
 
 :ref:`in-time`
@@ -270,4 +270,34 @@ lesson 9 The best and the worst
 一般不会说： `I can't get no eggs.`
 
 参见 :doc:`indefinite-pronoun`
+
+Lesson 10 Not for jazz
+======================================
+
+.. glossary::
+
+    被动语态(The passive)
+
+主动语态关注的执行动作的人或者物。被动语态注的是执行对象。
+
+
+被动语态中也要使用时态规则。
+
+现在进行时的被动语态，使用 by 来说明执行动作的人： ::
+
+    The instrument is being repaired by a friend of my father's.
+
+行为主体可以不用说明出来： ::
+
+    The instrument is being repaired.
+
+.. glossary::
+
+    双重所有格
+
+:ref:`the-double-genitive`
+
+
+
+
 

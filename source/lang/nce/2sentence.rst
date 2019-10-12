@@ -174,7 +174,7 @@ in return 可以单独使用，也可以加上介词 for 表示说明
 
     He asked for his friends' advice.
 
-lesson 8 The best and the worst
+Lesson 8 The best and the worst
 ======================================
 
 报名参加 ::
