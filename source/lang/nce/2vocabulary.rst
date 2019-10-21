@@ -94,3 +94,60 @@ made from 表示用数种材料制成，通常指制成之后改变了材料原�
 
     Paper can be made from wood.
 
+Lesson 11 One good turn deserves another
+==========================================
+
+salary 和 wage
+
+salary 可以译为薪资，薪水，通常指职员或者脑力劳动者按月支付的比较固定的收入。 ::
+
+    My salary is paid on the 28th of the month.
+
+wage 可以译为工资，工钱，通常指技工或者体力劳动者按周或者按天支付的报酬。wage 一般使用复数形式 wages。 ::
+
+    When I worked as a waiter, the wages were low and the tips were good.
+
+borrow 和 lend
+
+borrow 的意思是借入，经常与 from 连用 ::
+
+    He borrowed my pen yesterday.
+
+    Can I borrow $20 form you please?
+
+lend 的意思是“把……借给”，“借出”，经常与 to 连用 ::
+
+    He refused to lend any money to Tom.
+
+Lesson 12 Goodbye and good luck
+==========================================
+
+be + 副词构成表语，be 与副词连用表达的意思与副词本身不同。 ::
+
+    be back = 返回 return
+
+    be on = 播放，演出，表演 perform
+
+    be in = 在，出席 present
+
+    be away = 离开 absent
+
+    be out = 出去
+
+    be over = 结束
+
+set + 副词构成短语动词。 ::
+
+    set out 出发动身
+
+    Captain Alison will set out at eight o'clock.
+
+    set off 出发，启程
+
+    I will set off for home the day after tomorrow.
+
+    set up 创立，创建（记录）
+
+    Has Tim set up a new world record?
+
+    Mr. Jackson has set up a school in the village.

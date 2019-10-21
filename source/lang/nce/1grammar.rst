@@ -183,9 +183,9 @@ Lesson 37~38
 
 .. glossary::
 
-    一般将来时
+    一般将来时(The simple future tense)
 
-        be going to
+be going to
 
 be的现在时形态 ``am/is/are going to + 动词原形`` 。在非正式语体中，一般多用 ``be going to`` ，
 而不用 ``will``  ::
@@ -642,9 +642,9 @@ Lesson 91~92
 
 .. glossary::
 
-    一般将来时
+    一般将来时(The simple future tense)
 
-        will/shall + 动词原形
+will/shall + 动词原形
 
 will 可以用于所有人称，shall 仅表示纯粹将来时用于第一人称 we 和 I，作为 will 的一种替代形式。
 

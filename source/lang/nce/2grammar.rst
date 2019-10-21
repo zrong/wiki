@@ -297,7 +297,38 @@ Lesson 10 Not for jazz
 
 :ref:`the-double-genitive`
 
+Lesson 11 One good turn deserves another
+==========================================
 
+.. glossary::
 
+    动词不定式
 
+动词 + 名词/代词 + 带 to 的不定式
 
+某些动词不定式前有一个名词或者代词，有没有这个词会影响整个句子的意义： ::
+
+    I want to speak to John.
+
+    I want you to speak to John.
+
+某些动词后面用不定式作为宾语的时候，后面必须有名词或者代词，这类动词有： ::
+
+    allow/advise/help/teach/tell/request
+
+    Mr. Turner did not allow us to see the picture.
+
+    We were not allowed to see the picture.
+
+    He taught me to paint.
+
+Lesson 12 Goodbye and good luck
+==========================================
+
+.. glossary::
+
+    一般将来时(The simple future tense)
+
+当 You and I 作为主语的时候，应该避免使用 shall。
+
+在美国英语中较少使用 shall，用 shall 表示将来也不常用。
