@@ -200,3 +200,26 @@ every 不那么强调个体，常用来指一个大的，不确定的数目。 :
     nearly 和 almost
 
 意义相似，表示“几乎”，“差不多”，“差点儿”
+
+Lesson 13 The Greenwood Boys
+==========================================
+
+同往常一样 ::
+
+    as uasual
+
+维持秩序 ::
+
+    keep order
+
+在...场合 ;;
+
+    on ... occasion
+
+当前，现在 ::
+
+    at present
+
+一群，一个团体 ::
+
+    a group of ...

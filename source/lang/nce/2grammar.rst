@@ -332,3 +332,32 @@ Lesson 12 Goodbye and good luck
 当 You and I 作为主语的时候，应该避免使用 shall。
 
 在美国英语中较少使用 shall，用 shall 表示将来也不常用。
+
+Lesson 13 The Greenwood Boys
+==========================================
+
+.. glossary::
+
+    将来进行时(The future progressive tense)
+
+will/shall + be + 现在分词
+
+与一般将来时相比，有时表达的意思差不多。
+
+一般将来时中的 will 带有蓄意而为的含义，表示主语的意愿、决心、许诺等等。
+
+将来进行时只表示单纯的将来，或者只陈述将来的事实，具有一种”温和效应“ ，语气比使用 will 的时候委婉客气。 ::
+
+    When will you finish these letter? 上司对下属，询问
+    When will you be seeing Mr. White?  下属对上司，询问
+
+    What will you be doing this time tomorrow? 问事实，不是问意图
+    I will be playing tennis.
+
+    Mary won't pay this bill. 拒绝付账，表示主观意愿
+    Mary won't be pqying this bill. 不会付账，表示将来的事实
+
+    Won't you join us for dinner? 主观邀请
+    Won't you be joining us for dinner? 将来的事实
+
+:ref:`the-rule-of-genitive-nouns`

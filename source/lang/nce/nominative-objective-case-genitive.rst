@@ -40,3 +40,42 @@
 
 ``He is a friend of mine.`` 比 ``He is my friend.`` 更加常用。后者含有 “他是我的一个特殊的朋友” 之意。
 
+.. _the-rule-of-genitive-nouns:
+
+名词所有格规则
+===================
+
+1. 单数名词以及不以 ``s`` 结尾的人名后加 ``'s`` ::
+
+    a child's words.
+    Tom's new job.
+
+2. 以 ``s`` 结尾的单数名词后面加 ``'s`` ::
+
+    a waitress's job
+
+3. 规则复数名词之后直接加 ``'`` ::
+
+    boys' school
+
+4. and 连接的两个人名，在第二个人名上加 ``'s`` ::
+
+    John and Mary's child.
+
+5. 另一种双重所有格用法 ::
+
+    My brother's neighbour's sister is a nurse.
+
+6. 以 ``s`` 结尾的人名后面应该加上 ``'s``，也可以只加 ``'`` ::
+
+    Mr. Jones'/Jones's car.
+
+7. 有些无生命的物体后面也可以用所有格，例如与时间有关的 ::
+
+    a day's work 一天的工作
+    a month's salary 一个月的薪水
+    a week or two's time 一两周时间
+
+8. 表示值多少钱可以用所有格 ::
+
+    tow pounds' worth of bread 两英镑的面包
