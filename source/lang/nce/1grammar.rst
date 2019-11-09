@@ -1011,9 +1011,9 @@ Lesson 119~120
 
 .. glossary::
 
-    过去完成时
+    过去完成时(The simple past perfect tense)
 
-        had + 过去分词
+had + 过去分词
 
 过去完成时表示两个事件中一个发生在前，或者说表示较早的过去。
 

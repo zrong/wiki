@@ -212,7 +212,7 @@ Lesson 13 The Greenwood Boys
 
     keep order
 
-在...场合 ;;
+在...场合 ::
 
     on ... occasion
 
@@ -223,3 +223,45 @@ Lesson 13 The Greenwood Boys
 一群，一个团体 ::
 
     a group of ...
+
+Lesson 14 Do you speak English?
+=====================================
+
+ask 与 ask for ::
+
+    询问
+    I ask (Mary) a question.
+
+    请求，要求，邀请
+    They asked Tony to sing a song.
+
+    要
+    You are always asking for help.
+
+except, except for 与 apart from ::
+
+    除 ... 以外，有时可以互相替代使用
+    Everyone has helpd in some way apart from/except for/except you.
+
+    except 不可用于句首，另外两者则可以用于句首
+    I have no other books except/except for these.
+
+which of, either of, neither of, both of ::
+
+    用于指两个人或者两件事
+
+    询问偏爱或者选择哪一个，使用 which
+    I like both of these bags. Which of the two do you prefer?
+
+    either 与 neither 都是对于两个人或者物而言（接单数名词），either 指 one or the other（不是这个就是那个），either 和 neither 后跟 of 时指两个事物中的每一个
+    Which bag shall I use?
+    Either of them. It doesn't matter which.
+    Neither of them. Use a suitcase.
+
+    both 只指两个人或者物。当它用在名词前的时候，of 可有可无。
+    Both books/Both of the books are interesting.
+
+    both 用在代词前面的时候，必须加 of
+    Both of us/them left early.
+    I love both of you.
+

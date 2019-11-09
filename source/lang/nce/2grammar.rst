@@ -361,3 +361,16 @@ will/shall + be + 现在分词
     Won't you be joining us for dinner? 将来的事实
 
 :ref:`the-rule-of-genitive-nouns`
+
+Lesson 14 Do you speak English?
+==========================================
+
+.. glossry::
+
+    过去完成时(The simple past perfect tense)
+
+“较早的过去”，表示过去某时或者某动作发生之前已经完成的动作或者情况，
+
+常用的连词有 when/after/as soon as/until/by that time
+
+常用的副词有 already/just/never/never ... before

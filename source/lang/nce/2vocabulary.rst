@@ -151,3 +151,24 @@ set + 副词构成短语动词。 ::
     Has Tim set up a new world record?
 
     Mr. Jackson has set up a school in the village.
+
+Lesson 14 Do you speak English?
+=====================================
+
+in
+
+表示一个大范围中的某个地方使用 in ::
+
+    After I had left a small village in the south of France, ...
+
+表示使用某种语言作为交际手段的时候使用 in ::
+
+    That book is written in German.
+
+表示讲某种语言的时候可以不使用介词 in ::
+
+    Speak English/French
+
+lift 搭便车，免费搭车 ::
+
+    I stopped and he asked me for a lift.
