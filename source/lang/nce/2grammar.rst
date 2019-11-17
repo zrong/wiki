@@ -374,3 +374,23 @@ Lesson 14 Do you speak English?
 常用的连词有 when/after/as soon as/until/by that time
 
 常用的副词有 already/just/never/never ... before
+
+Lesson 15 Good News
+==========================================
+
+.. glossary::
+
+    间接引语(Indirect Speech)
+
+转述动词 ``say/tell`` 可能是现在时，也可能是过去时。
+
+tell 后面必须加讲话对象。
+
+say + to 后面可以加也可以不加讲话对象。
+
+提到听话者的时候，tell 比 say + to 更加常用。
+
+引述动词是现在时，间接引语也使用现在时。
+
+引述动词是过去时，间接引语中的时态要遵循： 现在是变为过去时，过去时变为过去完成时。
+

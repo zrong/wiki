@@ -172,3 +172,32 @@ in
 lift 搭便车，免费搭车 ::
 
     I stopped and he asked me for a lift.
+
+Lesson 15 Good News
+==========================================
+
+Nervous 和 Irritable ::
+
+    Nervous 表示紧张不安
+
+    Examinations makes me nervous.
+
+    Irritable 表示易怒。
+
+    He is such an Irritable person.
+
+Office Study Desk ::
+
+    There are six people in our office. 办公室
+
+    The living room is next to the study. 书房
+
+    My desk covered with books. 书桌
+
+Afford ::
+
+    Will you bu this car? I can't afford 7000.
+
+    You can afford this model.
+
+    I can't afford the time. 没时间
