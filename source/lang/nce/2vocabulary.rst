@@ -201,3 +201,81 @@ Afford ::
     You can afford this model.
 
     I can't afford the time. 没时间
+
+Lesson 16 A polite request
+============================================
+
+Police 指代警察群体，为复数形式。单数形式可以使用 policeman 或者 policewoman ::
+
+    The police are looking for him.
+
+    There are police everywhere.
+
+    Tom's sister is a policewoman.
+
+Pay attention to/Care/Take care of/Look after ::
+
+    Please pay attention to the blackboard. 注意，集中注意力
+
+    I don't care if he breaks his neck! 在意，在乎
+
+    I'll take care of/look after it while you are on holiday. 担心，担忧
+
+Remind/Remember ::
+
+    I reminded him to post my letter. 提醒
+
+    I remembered to post your letter. 记起
+
+    Remember me to your mother. 代为问候
+
+One/You 在英语中代指每个人/任何人 ::
+
+    One must be careful these days. You must be careful therse days.
+
+    One must never tell lies. You must never tell lies.
+
+fail ::
+
+    Why did the plan fail? 失败，不及物动词
+
+    I hope I haven't failed in the French test. 不及格，不及物动词
+
+    The teacher said he woruld faile me if I don't work hard. 使……不及格，及物动词
+
+    He failed to finish his work in time. 未能……，不能…… （后接不定式）
+
+    Don't fail to post the letter for me.
+
+Lesson 17 Always young
+===============================================
+
+“数字+years old”做表语 ::
+
+    My father is fifty-seven years old now.
+
+“数字+-year-old”做定语 ::
+
+    Last week, my four-year-old daughter, Sally, was in-vited to a children's party.
+
+in spite of ::
+
+    尽管，不管
+
+as 的不同用法 ::
+
+    I cannot come as i am busy. 作为连词，表示原因
+
+    As I was leaving the houst, the postman brought a letter. 作为连词，正当……时候
+
+    Do as you are told. 作为连词，以……方式
+
+    He works as an engineer. 作为介词，以……身份
+
+Dress/Suit/Costume ::
+
+    My sisiter brought a new dress yesterday. 连衣裙
+
+    My brother never wears ready-made suits. 套装
+
+    All the actors wore fifteenth-century costumes. 服装

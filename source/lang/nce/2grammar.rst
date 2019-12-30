@@ -394,3 +394,46 @@ say + to 后面可以加也可以不加讲话对象。
 
 引述动词是过去时，间接引语中的时态要遵循： 现在是变为过去时，过去时变为过去完成时。
 
+Lesson 16 A polite request
+============================================
+
+.. glossary::
+
+    条件句(Conditional sentences)
+
+主句用一般现在时，从句用将来时。这种情况下，主句中的 will 表示肯定如此或者几乎可以肯定如此。 ::
+
+    Shall I post there lessters for you?
+
+如果肯定程度达不到 will 的程度，或者如果想表达建议或者其他意思，可以用别的情态动词来代替 will ::
+
+    If it's fine tomorrow, we can/may go out.
+
+主句还可以用祈使句预期来表示请求和建议 ::
+
+    If you make a mistake, correct it.
+
+    If you don't like the food. don't eat it.
+
+Lesson 17 Always young
+===============================================
+
+..glossary::
+
+    情态动词 must
+
+must 一般译为必须，必要，表示命令或强制，邀请，决心，不可推卸的责任。
+
+have to 和 have got to 强调客观色彩，must 则表示主观色彩。
+
+have to 和 have got to 往往可以互换。always/sometimes 连用的时候，have to 比较多用。
+
+have got to 比 have to 更加口语化。
+
+“难道你不能不……” 常用 "Must you ...?"，而不用 “Do you have to...?”，或者“Have you got to...?”
+
+过去时中必须使用 had to 而不能使用 must.
+
+must 经常用来表示推测。 :
+
+    I, personally, think he is a fool. He must be a fool.
