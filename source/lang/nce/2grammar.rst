@@ -96,7 +96,7 @@ Lesson 4
 
     现在完成时与现在进行时
 
-现在完成时关注的时间概念有时是不确定的。我们所关心的是显存的结果，或者过去发生的事情对现在的影响。
+现在完成时关注的时间概念有时是不确定的。我们所关心的是现存的结果，或者过去发生的事情对现在的影响。
 
 现在完成时不能和明确表示过去的副词连用，例如： ago/yesterday。
 
@@ -418,7 +418,7 @@ Lesson 16 A polite request
 Lesson 17 Always young
 ===============================================
 
-..glossary::
+.. glossary::
 
     情态动词 must
 
@@ -437,3 +437,45 @@ have got to 比 have to 更加口语化。
 must 经常用来表示推测。 :
 
     I, personally, think he is a fool. He must be a fool.
+
+Lesson 18 He often does this!
+===============================================
+
+.. glossary::
+
+    完全动词 have
+
+have 作为助动词使用的时候，表示完成时态。
+
+have 作为完全动词使用的时候，当作”具有，拥有“的含义。
+
+**have 和 have got**
+
+通常可以互换。have got 作为”拥有，具有“的语义，用于一般现在时。 ::
+
+    Have you got the stamps?
+
+    I haven't go t any pencils.
+
+**do 和 have**
+
+也可以使用 do/did 与 have 构成疑问句： ::
+
+    Do you have a pencil?
+
+    I don't have any pencils.
+
+**have 表示 eat/drink/enjoy/take/receive**
+
+此处代表行为动词，可以与其他助动词（包括 have）构成疑问句
+
+    Have/Take a cigarette, Sam.
+
+    We will have/eat dinner at senven o'clock.
+
+    Do you have a nice holiday?
+
+    Have you had a letter form Tom yet?
+
+    I didn't have a nice holiday.
+

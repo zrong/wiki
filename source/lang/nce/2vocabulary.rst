@@ -279,3 +279,38 @@ Dress/Suit/Costume ::
     My brother never wears ready-made suits. 套装
 
     All the actors wore fifteenth-century costumes. 服装
+
+Lesson 18 He often does this!
+===============================================
+
+**beside 和 besides**
+
+beside 在旁边，在附近 ::
+
+    Come and sit beside us.
+
+    There is a chiair beside the door.
+
+beides 并且，此外，除了还有（except) ::
+
+    She has so much else todo besides.
+
+    There were a lot of people at the party besides us.
+
+**give 的固定搭配**
+
+give back 归还
+
+give away 赠送
+
+give in 上交
+
+give in 屈服，让步
+
+give up 放弃，抛弃
+
+give up 交出，让出
+
+
+
+
