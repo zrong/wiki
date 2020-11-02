@@ -365,7 +365,7 @@ will/shall + be + 现在分词
 Lesson 14 Do you speak English?
 ==========================================
 
-.. glossry::
+.. glossary::
 
     过去完成时(The simple past perfect tense)
 

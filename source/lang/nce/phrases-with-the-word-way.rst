@@ -2,6 +2,9 @@
 带 way 的短语
 ========================
 
+.. contents::
+    :depth: 2
+
 In the way/In one's way 妨碍某人 ::
 
     You are in my way.
