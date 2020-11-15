@@ -479,3 +479,47 @@ have 作为完全动词使用的时候，当作”具有，拥有“的含义。
 
     I didn't have a nice holiday.
 
+
+Lesson 19 Sold out
+===============================================
+
+.. glossary::
+
+    情态动词 can 与 may
+
+
+1. 请求别人允许或者答复的时候使用 can/could/may/might 。
+
+- can 最为常用，也最不正式；
+- could 比 can 表示更加「犹豫」和客气，通常在不能确定请求是否被同意的时候使用。
+- may 比 can 和 could 更加正式、更客气、更恭敬；
+- might 显得最犹豫、最客气、最恭敬。
+
+肯定回答： ::
+
+    Of course you can/may. （不可用 could 或者 might）
+
+否定回答： ::
+
+    No, you can't/may not. （不可用 could not 或者 might not）
+
+2. may 和 might 还表示可能
+
+确定无疑 ::
+
+    Jane is at home now.
+
+不敢确定 ::
+
+    Jane is may be at home.
+
+3. 表示过去可能发生过的事情。
+
+::
+
+    Has the post arrived yet?
+    It may have arrived.
+
+    Can you tell me if the boss saw my report last week?
+    He might have seen it, but he hasn't mentioned it.
+

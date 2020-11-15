@@ -426,26 +426,33 @@ Lesson 61~62
 have 和 have got 常与表示疼痛和疾病的名词联用。have加不定冠词的情况有以下几种：
 
   - 必须用不定冠词
-    a cold, a headache
+    ::
+
+        a cold, a headache
 
   - 不定冠词可用可不用
-    cache (a) cold, have (a) backache, have (a) toothache
+    ::
+
+        catch (a) cold, have (a) backache, have (a) toothache
 
   - 复数形式的疾病名称前面不加冠词
     measles, mumps, shingles(带状疱疹)
+    
     例句 ::
 
         Most children ard in bed with measles.
 
   - 不可数疾病名称前面不加冠词
     flu(流行性感冒), gout(痛风)
+    
     例句 ::
 
         I was in bed with flu for ten days.
 
   - the 也可以与flu, measles, mumps等词连用。
-
+    
     例句 ::
+
         He's got the flu.
 
 
@@ -1004,7 +1011,7 @@ both 是 we 的同位语。 ::
 
     Tommy had already swallowed them!
 
-:term:`过去完成时`
+:term:`过去完成时(The simple past perfect tense)`
 
 Lesson 119~120
 ================

@@ -312,5 +312,28 @@ give up 放弃，抛弃
 give up 交出，让出
 
 
+Lesson 19 Sold out
+===============================================
 
+sell out ::
 
+    固定短语，售完
+
+what a pity!  ::
+
+    表示可惜的感叹句
+
+may as well ::
+
+    还不如，无审查表现，和 might as well 可以互换使用
+
+    Shall we walk or take a bus?
+    We may/might as well walk.
+
+exclaim ::
+
+    由于痛苦、愤怒、惊奇、惊喜而叫喊、惊叫
+    When she saw the gift, she exclaimed in delight.
+
+    表示抗议的大声喊叫
+    She exclaimed against the rudeness of the young man.
