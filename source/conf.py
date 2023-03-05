@@ -52,7 +52,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'zrong\'s wiki'
-copyright = '2005-2018, zrong'
+copyright = '2005-2022, zrong'
 author = 'zrong'
 
 # The version info for the project you're documenting, acts as replacement for

@@ -119,7 +119,8 @@ def get_static(add_end_slash=True):
     pdir = os.path.join(basedir, 'dist')
     # 因为 windows 下面的 rsync 不支持 windows 风格的绝对路径，转换成相对路径
     # pdir = os.path.relpath(pdir, start=pdir)
-    pdir = os.path.join(basedir, 'build/html/')
+    # pdir = os.path.join(basedir, 'build/html/')
+    pdir = os.path.join(basedir, 'build/')
     if add_end_slash and not pdir.endswith('/'):
       return pdir + '/'
     return pdir
